@@ -1,0 +1,15 @@
+table,td,th{
+    border:black solid;
+    border-collapse:collapse;
+    background-color:skyblue;
+   }
+   th,td{
+     padding:20px;
+     background:skyblue;
+   }
+   th {
+     color: orangered;
+   }
+   td{
+    color: black;
+   }
