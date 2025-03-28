@@ -10,6 +10,8 @@
    p {
      color:white;
      font-size:30px;
+    display:flex;
+       justify-content:ceenter;
    }
    img {
      height:700px;
